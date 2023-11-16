@@ -1,0 +1,10 @@
+<td><span id="Singapore_cloud_pct"></span></td>
+<td><span id="Singapore_feels_like"></span></td>
+<td><span id="Singapore_humidity"></span></td>
+<td><span id="Singapore_max_temp"></span></td>
+<td><span id="Singapore_min_temp"></span></td>
+<td><span id="Singapore_sunrise"></span></td>
+<td><span id="Singapore_sunset"></span></td>
+<td><span id="Singapore_temp"></span></td>
+<td><span id="Singapore_wind_degrees"></span></td>
+<td><span id="Singapore_wind_speed"></span></td>
